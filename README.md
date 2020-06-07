@@ -9,6 +9,6 @@ The data set is grabbed from kaggle. The link for the data set of corona virus-2
 Blog post:
 
 https://medium.com/@amnaakhtar659/covid-19-pandemic-in-pakistan-data-visualizations-c2d9e635949b
-To view the visualizations on tableau:
+To view the Visualizations on tableau:
 
 https://public.tableau.com/profile/amna.akhtar#!/vizhome/DSproject_15912850375080/Sheet10
